@@ -1,0 +1,8 @@
+C:\Users\matia\Desktop\Skole\H1\The Firm\bin\Debug\The Firm.exe.config
+C:\Users\matia\Desktop\Skole\H1\The Firm\bin\Debug\The Firm.exe
+C:\Users\matia\Desktop\Skole\H1\The Firm\bin\Debug\The Firm.pdb
+C:\Users\matia\Desktop\Skole\H1\The Firm\obj\Debug\The Firm.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Skole\H1\The Firm\obj\Debug\The Firm.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\Desktop\Skole\H1\The Firm\obj\Debug\The Firm.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Skole\H1\The Firm\obj\Debug\The Firm.exe
+C:\Users\matia\Desktop\Skole\H1\The Firm\obj\Debug\The Firm.pdb
